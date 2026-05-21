@@ -3,7 +3,7 @@
 I'm a Computer Science student passionate about Machine Learning, Retrieval-Augmented Generation (RAG), and Agentic AI workflows. Currently building intelligent systems and looking for ML Engineering internship opportunities.
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, C++, SQL
+- **Languages:** Python, 
 - **AI/ML:** PyTorch, Scikit-Learn, NumPy, Pandas, OpenCV, Librosa
 - **GenAI/LLMs:** LangChain, LangGraph, Vector Databases, RAG Pipelines
 - **Tools:** uv, Git, Jupyter Notebook
